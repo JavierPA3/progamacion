@@ -1,7 +1,7 @@
 """
 COMENTARIOS
 """
-import MovieApi
+import movie_api
 from menu import Menu
 str_ = """
 ********************
