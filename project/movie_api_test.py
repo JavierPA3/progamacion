@@ -11,7 +11,7 @@ str_ = """
 menu = Menu(str_, 'Buscar código de película según su nombre.',
             'Buscar información de película según su código.',
             'Películas a recomendar si nos gusta una película concreta.',
-            'Obtener las 5 películas "trending topic" semanal o del día en función del género',
+            'Obtener las 5 películas "trending topic" semanal o del día en función del género.',
             'Mostrar géneros disponibles. ')
 while True:
 
