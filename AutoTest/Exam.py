@@ -1,5 +1,7 @@
 """
-Examen
+Test para hacer un examen.
+Autor: Javier Postigo Arévalo
+Fecha: 25/04/2023
 """
 
 from Question import Question
