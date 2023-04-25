@@ -5,6 +5,8 @@ Atributos:
     Enunciado
     Elecciones
     Puntuación base de la pregunta.
+Autor: Javier Postigo Arévalo
+Fecha: 25/04/2023
 """
 
 
