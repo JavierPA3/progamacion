@@ -43,6 +43,3 @@ class Question:
     @property
     def question_punctuation(self):
         return self.__question_punctuation
-
-    def __str__(self):
-        return self.__elections
