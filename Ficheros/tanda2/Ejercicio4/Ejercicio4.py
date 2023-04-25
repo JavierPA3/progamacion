@@ -13,6 +13,8 @@ crea un fichero con nombre Holav2.java que contiene el código de Holav1.java pe
 
 P.D.- Usa excepciones para controlar el manejo de ficheros y en caso de no poder operar dar el mensaje de error
 correspondiente.
+Autor: Javier Postigo Arévalo
+Fecha: /04/2023
 
 """
 import sys
